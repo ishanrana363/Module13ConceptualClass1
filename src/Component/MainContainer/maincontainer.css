@@ -1,0 +1,13 @@
+main{
+    height: calc(100vh - 63px);
+    /* background-color: gold; */
+}
+main{
+    padding: 30px 50px;
+}
+.card{
+    padding: 10px 20px;
+    border: 2px solid gray;
+    background-color: #fff;
+    margin-top: 10px;
+}
